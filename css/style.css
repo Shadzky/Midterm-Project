@@ -65,7 +65,6 @@ button:active {
 
 /* Home Page */
 .topbody {
-    background-image: url(../img/Anuplig.jpg);
     background-repeat: no-repeat;
     background-attachment:local;
     background-size: cover;
