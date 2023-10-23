@@ -114,6 +114,10 @@ button:active {
     padding: 2vw;
 }
 
+.botbody table {
+    margin: 1%;
+}
+
 /* Tourist Attraction Page */
 .tableTA tr td img{
     width: 300px;
