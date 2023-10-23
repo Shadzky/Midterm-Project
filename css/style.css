@@ -101,7 +101,7 @@ button:active {
     width: 80%;
     border-radius: 5px;
     font-size: 1.5em;
-    background-color: #bafbb0da;
+    background-color: #f1efc8da;
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
     margin: 5vh auto;
@@ -114,7 +114,7 @@ button:active {
 }
 
 .botbody table {
-    margin: 0 auto;
+    margin: 1vh auto;
 
 }
 
