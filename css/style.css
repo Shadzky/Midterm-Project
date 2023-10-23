@@ -114,7 +114,8 @@ button:active {
 }
 
 .botbody table {
-    margin: 1%;
+    margin: 0 auto;
+
 }
 
 /* Tourist Attraction Page */
