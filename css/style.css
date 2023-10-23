@@ -65,10 +65,6 @@ button:active {
 
 /* Home Page */
 .topbody {
-    background-image: url(../img/Anuplig.jpg);
-    background-repeat: no-repeat;
-    background-attachment:local;
-    background-size: cover;
     font-size: 1.2em;
     border-radius: 20px;
     height: 85vh;
@@ -115,7 +111,7 @@ button:active {
     padding: 2vw;
 }
 
-.botbody table {
+.botbody {
     margin: 1%;
 }
 
